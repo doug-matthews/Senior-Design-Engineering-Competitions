@@ -26,7 +26,7 @@ My friends and I competed in several engineering competitions in the senior desi
 ---
 
 ## First Compeition: UBC Engineering Competition 2015 <a name="first"></a>
-My friends and I competed in the 2015 Western Engineering Senior Design Competition in Kelowna, BC as representatives from UBC!
+Our first competition was at UBC in 2015 as a team in the Senior Design category. 
 
 Check out the code: [UBCEC_Code.c](UBC_EC-2015/Code/UBCEC_Code.c)
 

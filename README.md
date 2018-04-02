@@ -9,43 +9,46 @@ My friends and I competed in several engineering competitions in the senior desi
 
 ---
 # Table of Contents
-1. [First Competition: UBC Engineering Competition 2015](#first)
-	1. [Image of the Robot](#first1)
-	2. [The Challenge](#first2)
-	3. [Results](#first3)
+1. [Third Competition: UBC Engineering Competition 2017](#third)
+	1. [See it in Action](#third1)
+	2. [The Challenge](#third2)
+	3. [Results](#third3)
 2. [Second Competition: Western Engineering Competition 2016](#second)
 	1. [See it in Action](#second1)
 	2. [The Challenge](#second2)
 	3. [Results](#second3)
-3. [Third Competition: UBC Engineering Competition 2017](#third)
-	1. [See it in Action](#third1)
-	2. [The Challenge](#third2)
-	3. [Results](#third3)
+3. [First Competition: UBC Engineering Competition 2015](#first)
+	1. [Image of the Robot](#first1)
+	2. [The Challenge](#first2)
+	3. [Results](#first3)
 
 
 ---
 
-## First Compeition: UBC Engineering Competition 2015 <a name="first"></a>
-Our first competition was at UBC in 2015 as a team in the Senior Design category. 
 
-Check out the code: [UBCEC_Code.c](UBC_EC-2015/Code/UBCEC_Code.c)
+## Third Competition: UBC Senior Design 2017 <a name="third"></a>
+My friends and I competed in the 2017 Senior Design Competition as part of the UBC Engineering Competition. 
+
+Check out the code: [FinalRobot.ino](UBC_EC-2017/Code/FinalRobot.ino)
 
 
-### Picture of our robot! <a name="first1"></a>
+### See it in action! <a name="third1"></a>
 
 <p align="center"> 
-<img src="UBC_EC-2015/ubcec2015.jpg">
+<img src="UBC_EC-2017/arm.gif">
 </p>
 
+Trouble viewing the GIF? Download the video here: [Video](UBC_EC-2017/IMG_1954.mp4)
 
-### The Challenge <a name="first2"></a>
-The goal of this years competition was about transportation and to build a robot to move freight to its final location. The prototype was judged based on the following characteristics:
-* **Autonomy** - Being able to traverse the competition autnomously.
-* **Precision** - How accurately it can position an object in certain location.
-* **Strength** - How many items the robot could bring to its final destination.
+### The Challenge <a name="third2"></a>
+The goal of this years competition was to design a porotype for a new version of the Canadarm. The robot had to be completely autonomous. The prototype was judged based on the following characteristics:
+* **Strength** - How far can it push a mass (200 grams - 5 kg masses available).
+* **Precision** - How accurately can it position a 200 gram mass (both vertically and horizontally).
+* **Speed** - How fast can it position the 200 gram mass.
 
-### Results <a name="first3"></a>
-We ended up at 1st out of eight teams in the competition. Our robot was able to deliver an object to its final path, being only two of the eight teams to successfully acheive this task! Our design was lightweight and effecient in manuevering the track with PID control. From this competition, we were invited to participate in the Western Engineering Competition. 
+### Results <a name="third3"></a>
+Our team placed 2nd out of 7 teams! The judges were impressed by the mechanical design of our arm. It was very robust and we were happy with the functionality. Unfortunately, the mechanical design took longer than expected and we were unable to tune our arm to the challenge. Had we had a little longer we think we would have perform much better in the final challenge.
+
 
 
 ---
@@ -76,25 +79,25 @@ Our team was commended for its design and ingenuity in delivering its tasks! The
 ---
 
 
-## Third Competition: UBC Senior Design 2017 <a name="third"></a>
-My friends and I competed in the 2017 Senior Design Competition as part of the UBC Engineering Competition. 
 
-Check out the code: [FinalRobot.ino](UBC_EC-2017/Code/FinalRobot.ino)
+## First Compeition: UBC Engineering Competition 2015 <a name="first"></a>
+Our first competition was at UBC in 2015 as a team in the Senior Design category. 
+
+Check out the code: [UBCEC_Code.c](UBC_EC-2015/Code/UBCEC_Code.c)
 
 
-### See it in action! <a name="third1"></a>
+### Picture of our robot! <a name="first1"></a>
 
 <p align="center"> 
-<img src="UBC_EC-2017/arm.gif">
+<img src="UBC_EC-2015/ubcec2015.jpg">
 </p>
 
-Trouble viewing the GIF? Download the video here: [Video](UBC_EC-2017/IMG_1954.mp4)
 
-### The Challenge <a name="third2"></a>
-The goal of this years competition was to design a porotype for a new version of the Canadarm. The robot had to be completely autonomous. The prototype was judged based on the following characteristics:
-* **Strength** - How far can it push a mass (200 grams - 5 kg masses available).
-* **Precision** - How accurately can it position a 200 gram mass (both vertically and horizontally).
-* **Speed** - How fast can it position the 200 gram mass.
+### The Challenge <a name="first2"></a>
+The goal of this years competition was about transportation and to build a robot to move freight to its final location. The prototype was judged based on the following characteristics:
+* **Autonomy** - Being able to traverse the competition autnomously.
+* **Precision** - How accurately it can position an object in certain location.
+* **Strength** - How many items the robot could bring to its final destination.
 
-### Results <a name="third3"></a>
-Our team placed 2nd out of 7 teams! The judges were impressed by the mechanical design of our arm. It was very robust and we were happy with the functionality. Unfortunately, the mechanical design took longer than expected and we were unable to tune our arm to the challenge. Had we had a little longer we think we would have perform much better in the final challenge.
+### Results <a name="first3"></a>
+We ended up at 1st out of eight teams in the competition. Our robot was able to deliver an object to its final path, being only two of the eight teams to successfully acheive this task! Our design was lightweight and effecient in manuevering the track with PID control. From this competition, we were invited to participate in the Western Engineering Competition. 

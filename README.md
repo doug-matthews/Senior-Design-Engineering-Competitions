@@ -70,7 +70,7 @@ The goal of this years competition was to "Breaking Boundaries" and design a rob
 * **Speed** - How fast it can obtain objects within 120 seconds.
 
 ### Results <a name="second3"></a>
-Our team was commended for its design and ingenuity in delivering its tasks! The judges were impressed by the comprehensive detail in our design to complete the tasks. Unfortunately, the tasks were not fully integrated to perform a completed full run during the competition. Had we had more availablility to components, we believe we would have had smoother integration between tasks and a lighter robot. Overall, we were proud of our design and we were and we were able to impress the judges. 
+Our team was commended for its design and ingenuity in delivering its tasks! The judges were impressed by the comprehensive detail in our design to complete the tasks. Unfortunately, the tasks were not fully integrated to perform a completed full run during the competition. Had we had more availablility to components, we believe we would have had smoother integration between tasks and a lighter robot. Overall, we were proud of our design and we were able to impress the judges. 
 
 
 ---

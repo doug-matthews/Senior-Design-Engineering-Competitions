@@ -4,7 +4,7 @@
   Team members: Megan Nantel, Candice Ip, Adam Schonewille and Doug Matthews
 */
 
-#include <Servo.h>]
+#include <Servo.h>
 #include <QueueArray.h>
 
 

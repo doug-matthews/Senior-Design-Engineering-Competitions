@@ -38,7 +38,7 @@ Check out the code: [FinalRobot.ino](UBC_EC-2017/Code/FinalRobot.ino)
 <img src="UBC_EC-2017/arm.gif">
 </p>
 
-Trouble viewing the GIF? Download the video here: [Video](UBC_EC-2017/IMG_1954.mp4)
+Trouble viewing the GIF? Download the video here: [Video](UBC_EC-2017/arm.mp4).
 
 ### The Challenge <a name="third2"></a>
 The goal of this years competition was to design a porotype for a new version of the Canadarm. The robot had to be completely autonomous. The prototype was judged based on the following characteristics:
@@ -64,7 +64,7 @@ Check out the code: [WEC_Final_Code.c](WEC-2016/Code/WEC_Final_Code.c)
 <img src="WEC-2016/pid.gif">
 </p>
 
-Trouble viewing the GIF? Download the video here: [Video](WEC-2016/pid.mp4)
+Trouble viewing the GIF? Download the video here: [Video](WEC-2016/pid.mp4).
 
 ### The Challenge <a name="second2"></a>
 The goal of this years competition was to "Breaking Boundaries" and design a robot to save casualities in an arena. The robot had to be completely autonomous. The prototype was judged based on the following characteristics:

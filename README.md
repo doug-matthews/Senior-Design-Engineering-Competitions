@@ -80,7 +80,7 @@ Our team was commended for its design and ingenuity in delivering its tasks! The
 
 
 
-## First Compeition: UBC Engineering Competition 2015 <a name="first"></a>
+## First Competition: UBC Engineering Competition 2015 <a name="first"></a>
 Our first competition was at UBC in 2015 as a team in the Senior Design category. 
 
 Check out the code: [UBCEC_Code.c](UBC_EC-2015/Code/UBCEC_Code.c)
